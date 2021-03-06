@@ -1,2 +1,2 @@
-# py_audio
+# pyaudio
 audio related python projects
